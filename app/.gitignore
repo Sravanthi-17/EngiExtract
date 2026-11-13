@@ -1,0 +1,11 @@
+
+venv/
+__pycache__/
+*.pyc
+.env
+
+# Generated output
+output/
+
+# Temporary uploaded PDFs
+uploads/*.pdf
