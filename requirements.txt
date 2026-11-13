@@ -1,0 +1,8 @@
+
+pypdf
+pymupdf
+opencv-python
+numpy
+pillow
+streamlit
+requests
